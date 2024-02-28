@@ -1,6 +1,6 @@
 <h1 align="center">
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello,+i'm+RyharDev.+i'm+Development+Bot+Whatsapp">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello,+i'm+RyharDev.+i'm+Development+Bot+WA">
   </a>
 </h1>
 
@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Repo Stats 🔥
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=RyharDev&repo=mywajs&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=RyharDev&repo=telebotvtdl&theme=highcontrast)
 
    <p align="center">
   <a href="https://github.com/RyharDev"><img src="https://github-readme-stats.vercel.app/api?username=RyharDev&theme=tokyonight&show_icons=true" /></a>
