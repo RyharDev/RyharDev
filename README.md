@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Repo Stats 🔥
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=RyharDev&repo=mywajs&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=RyharDev&repo=telebotvtdl&theme=highcontrast)
 
    <p align="center">
   <a href="https://github.com/RyharDev"><img src="https://github-readme-stats.vercel.app/api?username=RyharDev&theme=tokyonight&show_icons=true" /></a>
